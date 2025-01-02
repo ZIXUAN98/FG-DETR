@@ -1,9 +1,9 @@
 # FG-DETR
 FG-DETR is a fine-grained detection algorithm based on RT-DETR.
 
-
-![The overviwer of FG-DETR](./images/model.jpg)
-
-**Figure 1:** The overviwer of FG-DETR
+<div style="text-align: center;">
+  <img src="./images/model.jpg" alt="The overviwer of FG-DETR" width="50%">
+  <p><strong>Figure 1:</strong> The overviwer of FG-DETR.</p>
+</div>
 
 The code is coming soon.
